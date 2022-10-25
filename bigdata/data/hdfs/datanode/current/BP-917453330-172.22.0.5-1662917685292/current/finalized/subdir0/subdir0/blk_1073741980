@@ -1,0 +1,6 @@
+#Dataset descriptor for titles
+#Mon Sep 19 18:06:18 UTC 2022
+location=hdfs\://namenode\:8020/user/hive/warehouse/db_teste2_5/titles
+version=1
+compressionType=snappy
+format=parquet
